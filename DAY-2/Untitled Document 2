@@ -1,0 +1,3 @@
+#write a python program to print the smallest vowel repeating odd number of times 
+def is_vowel(letters):
+
